@@ -45,7 +45,10 @@ java -jar personCRUD-0.0.1-SNAPSHOT.jar --count
 ```
 
 ### Add Person from the xml file
-Use the command
+Use the command, the person.xml example is provide in this repository
 ```
 java -jar personCRUD-0.0.1-SNAPSHOT.jar --addFile person.xml
 ```
+
+## Databases 
+There are two databases used in this project, the first one is the Apache Derby DB, it is playing the role  prod database, also there is a H2, and it is used in memory as Integration test database.
