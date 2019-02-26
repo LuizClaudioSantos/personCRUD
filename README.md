@@ -51,4 +51,4 @@ java -jar personCRUD-0.0.1-SNAPSHOT.jar --addFile person.xml
 ```
 
 ## Databases 
-There are two databases used in this project, the first one is the Apache Derby DB, it is playing the role  prod database, also there is a H2, and it is used in memory as Integration test database.
+There are two databases used in this project, the first one is the Apache Derby DB, it is playing the role of prod database, also there is a H2, and it is used in memory as Integration test database.
