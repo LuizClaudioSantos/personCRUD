@@ -45,7 +45,7 @@ java -jar personCRUD-0.0.1-SNAPSHOT.jar --count
 ```
 
 ### Add Person from the xml file
-Use the command, the person.xml example is provide in this repository
+Use the command, the person.xml example is provided in this repository
 ```
 java -jar personCRUD-0.0.1-SNAPSHOT.jar --addFile person.xml
 ```
